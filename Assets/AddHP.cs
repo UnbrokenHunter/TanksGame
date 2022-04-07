@@ -6,7 +6,6 @@ public class AddHP : MonoBehaviour
 {
     public static AddHP instance;
     public GameObject HPBar;
-    public GameObject lifeBox;
     private void Start()
     {
         instance = this;
